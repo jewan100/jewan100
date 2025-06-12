@@ -23,5 +23,5 @@
 <hr/>
 <div align="center">
   <a href="https://solved.ac/jewan"><img style="height:170px;" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=jewan"/></a>
-  <a href="https://github.com/jewan100"><img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewan100&hide=ada&layout=compact&theme=github_dark_dimmed"/></a>
+  <a href="https://github.com/jewan100"><img style="height:170px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jewan100&hide=ada,Dockerfile,HTML&layout=compact&theme=github_dark_dimmed"/></a>
 </div>
